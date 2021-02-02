@@ -11,6 +11,9 @@
 
 - 🎉 14/06/2000
 
+# Social Media
+https://www.linkedin.com/in/zabbix-byte/ 
+
 <!--
 **zabbix-byte/zabbix-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

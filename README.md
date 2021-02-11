@@ -14,6 +14,9 @@
 ## Social Media
 https://www.linkedin.com/in/zabbix-byte/ 
 
+## CV
+https://zabbix-byte.github.io/
+
 <!--
 **zabbix-byte/zabbix-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

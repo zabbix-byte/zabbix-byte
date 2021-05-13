@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, i'am Zabbix 🎈</h2>
+<h1 align="center"> Hi, i'am Zabbix 🎈</h1>
 
 ![NillerMedDild's github stats](https://github-readme-stats.vercel.app/api?username=zabbix-byte&theme=merko&show_icons=true)
 

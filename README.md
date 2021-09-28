@@ -4,7 +4,9 @@
 #
 ![codewars](https://www.codewars.com/users/zabbix-byte/badges/large)
 
-- 🔭 I’m currently working on IBM ❤ and Valerdat 🔝
+- 🔭 I’m currently working on IBM ❤ 
+
+- 🌠 Co-founder Valerdat
 
 - 🌱 I’m learning everyday
 

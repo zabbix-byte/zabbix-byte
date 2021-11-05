@@ -2,7 +2,6 @@
 
 ![NillerMedDild's github stats](https://github-readme-stats.vercel.app/api?username=zabbix-byte&theme=merko&show_icons=true)
 #
-![codewars](https://www.codewars.com/users/zabbix-byte/badges/large)
 
 - 🔭 I’m currently working on IBM ❤ 
 

@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Valerdat](https://valerdat.com/)
 
-- 👯 I’m looking to collaborate on **Myfiles**
-
 - 📫 How to reach me **zabbix@ztrunk.space**
 
 <h3 align="left">Connect with me:</h3>

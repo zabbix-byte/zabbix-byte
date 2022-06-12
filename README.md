@@ -6,9 +6,7 @@
 
 <h3 align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zabbix-byte&show_icons=true&locale=en&layout=compact" alt="zabbix-byte" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabbix-byte&" alt="zabbix-byte" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zabbix-byte&show_icons=true&locale=en&layout=compact" alt="zabbix-byte" /><img  src="https://github-readme-streak-stats.herokuapp.com/?user=zabbix-byte&" alt="zabbix-byte" /></p>
 
 </h3>
 <h3 align="left">Connect with me:</h3>

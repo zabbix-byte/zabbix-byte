@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zabbix <br>
+<h1 align="center">Hi 👋, I'm Zabbix <br> 
+  
+![Visitor Count](https://profile-counter.glitch.me/zabbix-byte/count.svg)
   
  <a href="https://linkedin.com/in/zabbix-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zabbix-byte" height="30" width="40" /></a>
 <a href="https://es.stackoverflow.com/users/261079/zabbix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zabbix" height="30" width="40" /></a>

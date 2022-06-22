@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zabbix <br> 
+<h1 align="center">Hi 🐧, I'm Zabbix <br> 
   
 ![Visitor Count](https://profile-counter.glitch.me/zabbix-byte/count.svg)
   

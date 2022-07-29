@@ -10,9 +10,9 @@
 <a href="https://instagram.com/ztrunk.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ztrunk.z" height="30" width="40" /></a>
 
  <h3 align="left">Projects:</h3>
-
-- Compressor: https://compressor.space/
+ 
 - Valerdat: https://valerdat.com/
+- Compressor: https://compressor.space/
 - Crypto Mining.
 
 

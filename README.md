@@ -9,8 +9,6 @@
 
 <h3>Hi 🐧, I'm ZABBIX </h3>
 
-![](https://www.codewars.com/users/zabbix-byte/badges/small)
-
 </div>
 
 

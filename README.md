@@ -11,10 +11,6 @@
 
 </div>
 
-
-Cancel changes
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/zabbix-byte" target="_blank">

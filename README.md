@@ -61,10 +61,8 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.paypal.com/donate/?hosted_button_id=5MTHH82ABTJDA" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
+  
+[![Donate](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+)](https://www.paypal.com/donate/?hosted_button_id=5MTHH82ABTJDA)
+  
 <br />

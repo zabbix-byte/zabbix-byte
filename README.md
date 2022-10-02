@@ -11,7 +11,7 @@
 
 </div>
 
-## Connect with me  
+## 📡 Connect with me  
 <div align="center">
 <a href="https://github.com/zabbix-byte" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,8 +34,12 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zabbix-byte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊 Github Stats  
+<div align="center">
+
+![Zabbix](https://github-readme-stats.vercel.app/api?username=zabbix-byte&show_icons=true&theme=codeSTACKr)
+
+</div>  
 
 <br/>  
 
@@ -43,9 +47,15 @@
 
 <br/>  
 
-  
 
+## 🖤 Preferred epositories 
 
+<div align="center">
+
+![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=zt_cs_cheat&cache_seconds=86400&theme=codeSTACKr)
+![zt](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=FiveM-RP-Framework-ZB&cache_seconds=86400&theme=codeSTACKr)
+
+</div>  
 
 ----
 

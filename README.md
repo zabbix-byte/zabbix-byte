@@ -52,8 +52,8 @@
 
 <div align="center">
 
-![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=zt_cs_cheat&cache_seconds=86400&theme=codeSTACKr)
-![zt](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=FiveM-RP-Framework-ZB&cache_seconds=86400&theme=codeSTACKr)
+[![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=zt_cs_cheat&cache_seconds=86400&theme=codeSTACKr)](https://github.com/zabbix-byte/zt_cs_cheat)
+[![zt](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=FiveM-RP-Framework-ZB&cache_seconds=86400&theme=codeSTACKr)](https://github.com/zabbix-byte/FiveM-RP-Framework-ZB)
 
 </div>  
 

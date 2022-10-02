@@ -48,7 +48,7 @@
 <br/>  
 
 
-## 🖤 Preferred epositories 
+## 🖤 Preferred Repositories 
 
 <div align="center">
 

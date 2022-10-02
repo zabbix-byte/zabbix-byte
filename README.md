@@ -61,7 +61,7 @@
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/ichimovidiu" target="_blank" style="display: inline-block;">
+            <a href="https://www.paypal.com/donate/?hosted_button_id=5MTHH82ABTJDA" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"

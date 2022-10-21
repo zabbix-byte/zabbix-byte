@@ -52,9 +52,10 @@
 
 <div align="center">
 
+[![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=rig_price_elec_monitor&cache_seconds=86400&theme=codeSTACKr)](https://github.com/zabbix-byte/rig_price_elec_monitor)
+[![zt](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=NFT-Generator&cache_seconds=86400&theme=codeSTACKr)](https://github.com/zabbix-byte/NFT-Generator)
 [![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=zt_cs_cheat&cache_seconds=86400&theme=codeSTACKr)](https://github.com/zabbix-byte/zt_cs_cheat)
-[![zt](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=NFT-Generator&cache_seconds=86400&theme=codeSTACKr)](https://github.com/zabbix-byte/FiveM-RP-Framework-ZB)
-
+[![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=FiveM-RP-Framework-ZB&cache_seconds=86400&theme=codeSTACKr)](https://github.com/zabbix-byte/FiveM-RP-Framework-ZB)
 </div>  
 
 ----

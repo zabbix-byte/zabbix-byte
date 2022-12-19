@@ -46,27 +46,6 @@
   
 
 <br/>  
-  
-## 🖤 My preferred repositories 
-
-<div align="center">
-
-
-[![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=FiveM-RP-Framework-ZB&cache_seconds=8400&theme=codeSTACKr)](https://github.com/zabbix-byte/FiveM-RP-Framework-ZB)
-  [![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=zt_cs_cheat&cache_seconds=8400&theme=codeSTACKr)](https://github.com/zabbix-byte/zt_cs_cheat)
-
-</div>  
-
-## 💗 Mini projects
-
-<div align="center">
-  
- 
-  
-[![csgo](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=zt-blockchain&cache_seconds=8400&theme=codeSTACKr)](https://github.com/zabbix-byte/zt-blockchain)
-[![zt](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=esp-opengl-csgo&cache_seconds=8400&theme=codeSTACKr)]( https://github.com/zabbix-byte/esp-opengl-csgo)
-[![zt](https://github-readme-stats.vercel.app/api/pin/?username=zabbix-byte&repo=NFT-Generator&cache_seconds=8400&theme=codeSTACKr)](https://github.com/zabbix-byte/NFT-Generator)
-</div> 
 
 ----
 

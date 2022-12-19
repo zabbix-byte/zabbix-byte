@@ -36,8 +36,11 @@
 
 ## 📊 Github Stats  
 <div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zabbix-byte&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Zabbix](https://github-readme-stats.vercel.app/api?username=zabbix-byte&show_icons=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabbix-byte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>  
 

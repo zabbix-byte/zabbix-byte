@@ -65,7 +65,7 @@
 
 </div>  
 
-## 💗 Mini project 
+## 💗 Mini projects
 
 <div align="center">
   

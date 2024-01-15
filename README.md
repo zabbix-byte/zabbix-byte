@@ -66,9 +66,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
-<div align="center">
-  
-[![Donate](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
-)](https://www.paypal.com/donate/?hosted_button_id=5MTHH82ABTJDA)
-  
 <br />

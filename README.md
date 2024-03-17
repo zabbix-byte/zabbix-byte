@@ -1,4 +1,4 @@
-<img width="40%" align="left" alt="Github" src="https://github.com/zabbix-byte/zabbix-byte/blob/main/image.png" />
+<img width="50%" align="left" alt="Github" src="https://github.com/zabbix-byte/zabbix-byte/blob/main/image.png" />
 <h3><strong>About Me</strong></h3>
 <hr />
 <h4>

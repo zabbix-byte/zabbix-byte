@@ -1,14 +1,3 @@
-
-
-
-<hr />
-
-<div align="center" >
-<a href="https://info.flagcounter.com/7Wy1"><img src="https://s11.flagcounter.com/map/7Wy1/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-</div>
-
-<hr />
-
 <img width="40%" align="left" alt="Github" src="https://github.com/zabbix-byte/zabbix-byte/blob/main/image.png" />
 <h3><strong>About Me</strong></h3>
 <hr />
